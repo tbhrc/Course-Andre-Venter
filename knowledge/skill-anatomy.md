@@ -69,7 +69,7 @@ A strong body can often fit into:
 ```markdown
 # Audio Session Preflight
 
-**Fast links:** [Input rules](references/inputs.md)
+**Fast links:** `references/inputs.md`
 
 **Execution spine:** request → inspect source evidence → identify gaps → build preflight → verify → stop
 
