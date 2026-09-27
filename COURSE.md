@@ -224,6 +224,8 @@ Learn:
 - audit evidence where it adds value;
 - human-in-the-loop design.
 
+**Build:** complete the [untrusted-input lab](labs/12-prompt-injection-untrusted-input.md), [permission/human-control lab](labs/12-permission-boundaries.md), and André's [technical safety application](course/12-andre-application.md).
+
 **Build:** complete the [prompt-injection/untrusted-input lab](labs/12-prompt-injection-untrusted-input.md), [permission/human-control lab](labs/12-permission-boundaries.md), and André's [technical safety application](course/12-andre-application.md).
 
 ---
