@@ -232,7 +232,7 @@ Learn:
 
 ## Phase 6 — Build a real agent
 
-### Module 13 — Architecture the smallest useful system
+### [Module 13 — Architecture the smallest useful system](course/13-smallest-useful-architecture.md)
 **Goal:** choose the minimum architecture that solves a real problem.
 
 Default order:
@@ -248,10 +248,10 @@ capable model
 → orchestration only if needed
 ```
 
-**Artifact:** architecture diagram + proof plan.
+**Build:** complete the [KISSS architecture lab](labs/13-kisss-architecture-lab.md), then André's [technical architecture application](course/13-andre-application.md).
 
-### Module 14 — Capstone build
-Choose one real project.
+### [Module 14 — Capstone build](course/14-capstone.md)
+Choose one real project. Use André's [personalized capstone tracks](course/14-andre-capstone.md).
 
 Strong candidates for André:
 
@@ -297,7 +297,7 @@ The capstone must solve a real problem and include:
 
 ## Phase 7 — Advanced only after the foundation
 
-### Module 15 — Multi-agent systems
+### [Module 15 — Multi-agent systems](course/15-multi-agent-systems.md)
 Only now introduce:
 - specialist agents;
 - handoffs;
@@ -313,7 +313,7 @@ It is:
 
 > Does separating this job into multiple agents produce a clearer, more reliable system than one well-instructed agent with the right tools?
 
-### Module 16 — Production thinking
+### [Module 16 — Production thinking](course/16-production-thinking.md)
 Learn:
 - deployment;
 - monitoring;
@@ -327,6 +327,10 @@ Learn:
 - user experience.
 
 ---
+
+# Graduation
+
+Complete [André's Graduation Challenge](GRADUATION-ANDRE.md) against the canonical [Graduation](GRADUATION.md), then use [CONTINUATION.md](CONTINUATION.md).
 
 # Graduation test
 
