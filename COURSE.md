@@ -146,7 +146,7 @@ This is **not** a traditional programming course. Every coding concept must conn
 
 ## Phase 4 — Tools and connected agents
 
-### Module 8 — APIs and tool calling
+### [Module 8 — APIs and tool calling](course/08-apis-and-tool-calling.md)
 **Goal:** understand how an agent moves from reasoning to action.
 
 Learn:
@@ -160,9 +160,9 @@ Learn:
 - failure handling;
 - idempotency.
 
-**Build:** call one safe API and turn it into a useful agent tool.
+**Build:** complete the [first API lab](labs/08-first-api-lab.md), [tool-contract workshop](workshops/08-tool-contract-workshop.md), [authentication/secrets practical](labs/08-auth-secrets-practical.md), and André's [technical API/tool application](course/08-andre-application.md).
 
-### Module 9 — MCP
+### [Module 9 — MCP](course/09-mcp.md)
 **Goal:** understand reusable agent-to-system connectivity.
 
 Learn:
@@ -174,7 +174,7 @@ Learn:
 - why MCP reduces custom integration work;
 - when a direct API is simpler.
 
-**Build:** connect an agent to one useful MCP capability and verify a real action.
+**Build:** complete the [first MCP connection lab](labs/09-first-mcp-connection.md), then André's [MCP systems application](course/09-andre-application.md).
 
 ---
 
