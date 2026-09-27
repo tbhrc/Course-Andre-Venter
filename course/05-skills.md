@@ -188,7 +188,7 @@ In this course, Skills should make their normal path visible near the top.
 Example:
 
 ```markdown
-**Fast links:** [Input checklist](references/input-checklist.md) · [Output format](references/output-format.md)
+**Fast links:** `references/input-checklist.md` · `references/output-format.md`
 
 **Execution spine:** request → inspect inputs → identify missing evidence → build checklist → verify against inputs → output
 ```
