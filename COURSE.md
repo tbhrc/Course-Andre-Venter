@@ -106,7 +106,7 @@ Suggested starting domains:
 
 ## Phase 3 — Codex as a technical worker
 
-### Module 6 — Codex fundamentals
+### [Module 6 — Codex fundamentals](course/06-codex-fundamentals.md)
 **Goal:** supervise an agent working directly on a repository.
 
 Learn:
@@ -121,9 +121,9 @@ Learn:
 - rollback;
 - repository instructions.
 
-**Build:** modify a small real repository with Codex and verify the result.
+**Build:** complete the [Codex supervision lab](labs/06-codex-supervision-lab.md), then apply it to André's [technical Codex exercise](course/06-andre-application.md).
 
-### Module 7 — Coding literacy for AI builders
+### [Module 7 — Coding literacy for AI builders](course/07-coding-literacy.md)
 **Goal:** learn enough code to supervise, debug and extend AI-built systems.
 
 Focus:
@@ -139,6 +139,8 @@ Focus:
 - Python and/or TypeScript as practical implementation languages.
 
 This is **not** a traditional programming course. Every coding concept must connect to a real agent/build task.
+
+**Build:** complete the [coding literacy lab](labs/07-coding-literacy-lab.md), [diff/debug/rollback lab](labs/07-diff-debug-rollback.md), and André's [systems-to-code application](course/07-andre-application.md).
 
 ---
 
