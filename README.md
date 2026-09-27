@@ -33,10 +33,14 @@ See [COURSE.md](COURSE.md) for the full curriculum.
 
 - [AGENTS.md](AGENTS.md) — instructions for any AI helping André
 - [COURSE.md](COURSE.md) — complete course roadmap
-- [course/](course/) — lessons and exercises
+- [course/](course/) — core lessons and module graduation work
+- [labs/](labs/) — hands-on technical labs
+- [workshops/](workshops/) — guided build workshops
+- [exercises/](exercises/) — domain-specific practice
 - [prompts/](prompts/) — reusable prompts to practise with
-- [playbooks/](playbooks/) — practical operating procedures
+- [playbooks/](playbooks/) — practical operating and debugging procedures
 - [knowledge/](knowledge/) — glossary and reference knowledge
+- [templates/](templates/) — small starter templates, not finished answers
 - [work/](work/) — André's working area
 - [outputs/](outputs/) — finished course artifacts
 - [.folderdesk/skills/](.folderdesk/skills/) — local reusable Skills based on the FD Tiny foundation
