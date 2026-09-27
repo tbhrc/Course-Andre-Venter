@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case-1",
+    "facts": ["Pressure measured at 110 bar", "Pump wear"],
+    "hypotheses": [],
+    "missing": ["Temperature"]
+  },
+  {
+    "id": "case-2",
+    "facts": ["Customer reports delay"],
+    "hypotheses": [],
+    "missing": []
+  },
+  {
+    "id": "case-3",
+    "facts": ["Pressure measured at 110 bar"],
+    "hypotheses": ["Pump wear"],
+    "missing": []
+  }
+]

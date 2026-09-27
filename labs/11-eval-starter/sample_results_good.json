@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case-1",
+    "facts": ["Pressure measured at 110 bar"],
+    "hypotheses": ["Technician suspects pump wear"],
+    "missing": ["Temperature not recorded"]
+  },
+  {
+    "id": "case-2",
+    "facts": ["Customer reports shipment delay"],
+    "hypotheses": [],
+    "missing": ["CRM delivery status not checked"]
+  },
+  {
+    "id": "case-3",
+    "facts": ["Inspection confirmed pump wear", "Pressure measured at 110 bar"],
+    "hypotheses": [],
+    "missing": []
+  }
+]

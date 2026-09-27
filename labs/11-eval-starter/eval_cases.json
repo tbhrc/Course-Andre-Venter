@@ -1,0 +1,26 @@
+[
+  {
+    "id": "case-1",
+    "input": "Pressure measured at 110 bar. Technician suspects pump wear. Temperature was not recorded.",
+    "fact_terms": ["110 bar"],
+    "hypothesis_terms": ["pump wear"],
+    "missing_terms": ["temperature"],
+    "forbidden_fact_terms": ["pump wear"]
+  },
+  {
+    "id": "case-2",
+    "input": "Customer emailed that the shipment is delayed. CRM delivery status has not been checked.",
+    "fact_terms": ["customer", "delay"],
+    "hypothesis_terms": [],
+    "missing_terms": ["crm"],
+    "forbidden_fact_terms": ["crm confirms delay"]
+  },
+  {
+    "id": "case-3",
+    "input": "Inspection confirmed pump wear. Pressure measured at 110 bar.",
+    "fact_terms": ["pump wear", "110 bar"],
+    "hypothesis_terms": [],
+    "missing_terms": [],
+    "forbidden_fact_terms": []
+  }
+]
