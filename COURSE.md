@@ -180,7 +180,7 @@ Learn:
 
 ## Phase 5 — Reliability
 
-### Module 10 — Context, memory, state and data
+### [Module 10 — Context, memory, state and data](course/10-context-memory-state-data.md)
 **Goal:** understand what persists and where truth lives.
 
 Learn:
@@ -194,9 +194,9 @@ Learn:
 - retrieval;
 - avoiding duplicated truth.
 
-**Build:** design a small state model for an agent.
+**Build:** complete the [source-of-truth/state-design workshop](workshops/10-source-of-truth-state-design.md), then André's [machine-state application](course/10-andre-application.md).
 
-### Module 11 — Debugging and evaluation
+### [Module 11 — Debugging and evaluation](course/11-debugging-and-evals.md)
 **Goal:** troubleshoot agents the way André already troubleshoots technical systems.
 
 Learn:
@@ -209,9 +209,9 @@ Learn:
 - regressions;
 - changing one variable at a time.
 
-**Build:** intentionally break an agent workflow and diagnose it.
+**Build:** complete the [failure/regression lab](labs/11-deliberate-failure-regression.md), [representative eval exercise](labs/11-representative-eval.md), and André's [fault-isolation application](course/11-andre-application.md).
 
-### Module 12 — Safety, permissions and human control
+### [Module 12 — Safety, permissions and human control](course/12-safety-permissions-human-control.md)
 **Goal:** make useful systems without hiding risk.
 
 Learn:
@@ -223,6 +223,8 @@ Learn:
 - prompt injection;
 - audit evidence where it adds value;
 - human-in-the-loop design.
+
+**Build:** complete the [prompt-injection/untrusted-input lab](labs/12-prompt-injection-untrusted-input.md), [permission/human-control lab](labs/12-permission-boundaries.md), and André's [technical safety application](course/12-andre-application.md).
 
 ---
 
