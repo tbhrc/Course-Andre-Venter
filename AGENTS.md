@@ -1,6 +1,6 @@
 # AGENTS.md — André Venter AI Course Router
 
-This repository is both a course and a working AI project. Any AI agent assisting André must treat this file as the first-hop operating instruction.
+This repository is André's personalized learner track and a working AI project. The reusable general curriculum is owned by [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI). Any AI agent assisting André must treat this file as the first-hop local instruction while preserving that upstream ownership boundary.
 
 ## Learner
 
@@ -32,6 +32,13 @@ Teach André to become a competent practical AI builder who can:
 8. debug and verify agent behaviour;
 9. build a useful end-to-end agentic workflow;
 10. understand multi-agent orchestration only after mastering the single-agent path.
+
+## Canonical relationship
+
+- General reusable course/methodology → [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI)
+- André-specific pacing/examples/work → this repository
+- Reusable improvements discovered here → promote upstream
+- Do not overwrite useful André-specific adaptation merely to make files identical
 
 ## Course route
 
