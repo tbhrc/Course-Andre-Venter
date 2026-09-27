@@ -65,7 +65,7 @@ Learn:
 
 ## Phase 2 — Durable project work
 
-### Module 4 — Markdown, files, Git and GitHub
+### [Module 4 — Markdown, files, Git and GitHub](course/04-markdown-git-github.md)
 **Goal:** make AI work durable, inspectable and reversible.
 
 Learn:
@@ -80,9 +80,9 @@ Learn:
 - source of truth;
 - why Git is valuable even when AI writes the code.
 
-**Build:** create a small repository, make deliberate changes and inspect the diff.
+**Build:** complete the [Git/GitHub lab](labs/04-git-github-lab.md), make deliberate changes and inspect the diff.
 
-### Module 5 — Skills
+### [Module 5 — Skills](course/05-skills.md)
 **Goal:** turn proven repeated behaviour into reusable capability.
 
 Learn:
@@ -94,7 +94,7 @@ Learn:
 - testing a Skill on representative work;
 - when not to create a Skill.
 
-**Build:** André's first personal Skill, preferably from a domain he already understands.
+**Build:** complete the [first Skill workshop](workshops/05-first-skill-workshop.md), test it using the [Skill testing playbook](playbooks/skill-testing-debugging.md), then complete the [Skill graduation exercise](course/05-skill-graduation.md).
 
 Suggested starting domains:
 - audio session preparation;
