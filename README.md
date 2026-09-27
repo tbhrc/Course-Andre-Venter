@@ -1,5 +1,7 @@
 # AI & Agentic AI Course — André Venter
 
+**Personalized learner track:** [Canonical Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI) · [Relationship](CANONICAL-COURSE.md)
+
 A practical, build-first learning repository for **André Venter**.
 
 This course is designed for someone who is already technically capable across software, audio/video systems, industrial machinery, troubleshooting and maintenance, but is new to building with modern AI agents.
