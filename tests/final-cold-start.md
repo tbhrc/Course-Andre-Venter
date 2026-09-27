@@ -1,42 +1,36 @@
-# Final Cold-Start Test
+# Final Cold-Start Test — André Track
 
 ## Purpose
 
-Verify that a fresh capable agent can enter this repository with no prior conversation and correctly operate the course.
+Verify that a fresh capable agent enters this repository as **André Venter's personalized learner track** while respecting `Course-Agentic-AI` as the canonical general curriculum.
 
 ## Fresh-agent prompt
 
-> Open this repository. Read the root AGENTS.md first. Do not assume prior conversation context. Tell me: (1) the purpose of the repository, (2) the first learning file a new learner should open, (3) the teaching loop, (4) the core architecture doctrine, (5) where reusable HOW belongs, (6) how current volatile provider facts should be handled, and (7) what proves course graduation. Do not edit anything.
+> Open this repository. Read the root AGENTS.md first. Do not assume prior conversation context. Tell me: (1) who this learner track is for, (2) which repository owns the canonical general curriculum, (3) the first learning file André should open, (4) the teaching loop, (5) which technical domains should influence examples, (6) the smallest-architecture doctrine, and (7) what proves André graduates. Do not edit anything.
 
 ## Expected evidence
 
 The fresh agent should identify:
 
-- practical Agentic AI builder course;
-- `course/00-start-here.md`;
-- explain → show → learner does → inspect → debug → verify → teach-back → keep artifact;
-- one capable agent / smallest architecture before orchestration;
-- reusable HOW in Skills;
-- volatile public/product facts verified from live authoritative sources;
-- graduation through independent build/verification/explanation, not reading completion.
+- André Venter as the learner;
+- `tbhrc/Course-Agentic-AI` as canonical general curriculum/methodology;
+- `course/00-start-here.md` as the starting lesson;
+- explain → show → André does → inspect → debug → verify → teach-back → keep artifact;
+- sound/audio/DJ plus industrial/hydraulic/software maintenance as useful personalization domains;
+- one capable agent / smallest useful architecture before orchestration;
+- graduation through independent build, diagnosis, verification and explanation.
 
 ## Failure conditions
 
 Fail if the agent:
 
+- treats André's repo as the canonical general curriculum;
+- loses André-specific examples/pacing;
 - starts at an arbitrary module;
-- treats the repository as André-specific;
 - recommends multi-agent first;
-- says chat memory is authoritative state;
-- treats every task as requiring an Issue/PR;
-- copies volatile product facts instead of live verification;
-- cannot locate graduation criteria.
+- treats memory as live authoritative state;
+- cannot identify the graduation standard.
 
 ## Repair rule
 
-If the cold-start test fails:
-
-1. identify the smallest routing/instruction gap;
-2. fix only that gap;
-3. rerun the same test once;
-4. stop when the expected route is recovered.
+Fix only the smallest routing/personalization gap, rerun once, then stop.
