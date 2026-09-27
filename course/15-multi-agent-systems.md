@@ -10,7 +10,7 @@ The default remains:
 
 Split only when the added boundary solves a real problem.
 
-For current framework details, see [Architecture and Production Current Sources](../knowledge/architecture-production-current-sources.md).
+For current framework details, see [Architecture and Production Current Sources](../knowledge/architecture-production-current-sources.md). For hands-on harness practice, also use [Current Practice Harnesses](../knowledge/current-practice-harnesses.md).
 
 ---
 
@@ -246,7 +246,7 @@ ADD only surviving complexity
 
 ## Practical work
 
-Complete [One Agent vs Multi-Agent Lab](../labs/15-one-vs-multi-agent.md).
+Complete [One Agent vs Multi-Agent Lab](../labs/15-one-vs-multi-agent.md), then use the [Pi + DeepSeek Harness Playground](../labs/15-harness-playground.md) to compare the same principles in current real harnesses.
 
 ## Pass condition
 
