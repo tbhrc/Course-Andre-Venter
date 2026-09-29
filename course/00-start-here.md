@@ -10,32 +10,28 @@ Do not begin by reading everything.
 
 Give your AI this instruction:
 
-> Read the root AGENTS.md in this repository. Tell me, in five bullets, how you are required to teach me. Then tell me which course file comes first. Do not begin the lesson yet.
+> Read the root AGENTS.md and LEARNER-PROFILE.md in this repository. Tell me, in five bullets, how you are required to teach me. Then give me three facts from my learner profile that should affect how you coach me, plus one thing the profile does not prove. Then tell me which course file comes first. Do not begin the lesson yet.
 
 Check the answer against `AGENTS.md`.
 
-If the AI invents rules that are not there, misses major rules, or cannot access the repository, fix that before continuing.
+If the AI invents rules that are not there, misses major rules, cannot access the repository, or treats the learner profile as proof of skills it does not establish, fix that before continuing.
 
 ## Step 2 — Create your baseline
 
 Create `work/00-baseline.md`.
 
-Answer these questions in your own words:
+First read [../LEARNER-PROFILE.md](../LEARNER-PROFILE.md). Correct anything that is outdated or inaccurate. Do not repeat the profile just to fill space.
+
+Then answer these questions in your own words:
 
 1. What do you think an AI agent is?
 2. What is the difference between ChatGPT and an agent?
-3. Have you used Git or GitHub before? What for?
-4. Have you written code before? Which languages or environments?
-5. What repetitive technical task do you currently do that AI might help with?
-6. Which sounds most interesting right now:
-   - audio;
-   - DJ workflow;
-   - video;
-   - industrial maintenance;
-   - hydraulics;
-   - general business automation;
-   - something else?
-7. What would make this course genuinely useful to you?
+3. Which AI tools have you actually used so far, and what have you done with them?
+4. Have you used Git or GitHub before? What for?
+5. Have you written or edited code before? Which languages, scripts or environments?
+6. What repetitive technical or creative task do you currently do that AI might help with?
+7. Which current problem would make this course genuinely useful right now?
+8. Which familiar domain would you most like to use for the first exercises: industrial maintenance, hydraulics, safety/risk, audio, DJ/video, structured data/Excel, or something else?
 
 Do not make the answers impressive. Make them accurate.
 

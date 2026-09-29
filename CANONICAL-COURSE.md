@@ -5,6 +5,8 @@ This repository is the **personalized learner track for André Venter**.
 The reusable general curriculum and methodology are owned by:
 
 - [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI)
+- [Canonical methodology](https://github.com/tbhrc/Course-Agentic-AI/blob/main/METHODOLOGY.md)
+- [Canonical personalization rules](https://github.com/tbhrc/Course-Agentic-AI/blob/main/PERSONALIZATION.md)
 - [Canonical build Issue #1](https://github.com/tbhrc/Course-Agentic-AI/issues/1)
 
 ## Ownership
@@ -14,7 +16,7 @@ Course-Agentic-AI
 = canonical general curriculum + reusable methodology
 
 Course-Andre-Venter
-= André-specific pacing + examples + technical domains + personal work
+= André-specific learner profile + pacing + examples + technical domains + personal work
 ```
 
 ## Working rule
@@ -28,6 +30,8 @@ build reusable course material upstream
 → preserve André-specific teaching and exercises
 → verify André's learner experience
 ```
+
+André-specific learner evidence is owned by [LEARNER-PROFILE.md](LEARNER-PROFILE.md).
 
 If an improvement discovered in André's course would help learners generally, promote it to `Course-Agentic-AI`.
 

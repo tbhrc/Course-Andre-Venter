@@ -2,7 +2,9 @@
 
 Use this alongside the canonical [Module 14 — Capstone](14-capstone.md).
 
-Choose **one real problem**. Do not build all four.
+Choose **one real problem**. Do not build all tracks.
+
+Based on [André's learner profile](../LEARNER-PROFILE.md), **Track A is the strongest default starting point** because it combines his demonstrated industrial, troubleshooting, procedural and vendor-handover strengths while forcing him to learn the new AI/Git/data/tooling layers. Track B is a strong alternative when a real hydraulic problem is available. The coach should still choose the problem with André, not for him.
 
 ## Track A — Industrial Maintenance Evidence Agent
 
@@ -71,7 +73,41 @@ Include:
 
 ---
 
-## Track C — Studio / Audio Session Agent
+## Track C — Maintenance Risk / HIRA Evidence Assistant
+
+### Outcome
+
+Turn maintenance/change observations into a structured risk-evidence package for an authorised human review.
+
+### Possible flow
+
+```text
+work/change brief
+→ evidence + hazard extraction
+→ existing-control lookup
+→ missing-evidence questions
+→ consequence/likelihood support
+→ proposed controls
+→ authorised human review
+→ verified final record in the real owner system
+```
+
+### Important boundary
+
+The agent does not certify a machine/process as safe and does not replace the employer's real HIRA/SHE process. It improves evidence quality, completeness and traceability.
+
+### Proof
+
+Include:
+- one low-risk case where no extra control is justified;
+- one case with missing evidence;
+- one contradictory-input case;
+- one untrusted-instruction case;
+- one consequential action that clearly belongs to an authorised human/operator.
+
+---
+
+## Track D — Studio / Audio Session Agent
 
 ### Outcome
 
@@ -102,7 +138,7 @@ source assets
 
 ---
 
-## Track D — DJ Set Preparation Agent
+## Track E — DJ Set Preparation Agent
 
 ### Outcome
 

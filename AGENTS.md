@@ -4,19 +4,23 @@ This repository is André's personalized learner track and a working AI project.
 
 ## Learner
 
-André Venter is new to agentic AI but already highly technical.
+The durable learner-context owner is [LEARNER-PROFILE.md](LEARNER-PROFILE.md). Read it before the first substantial teaching step, before choosing domain exercises, and before selecting a capstone.
 
-Relevant experience:
-- sound engineering and DJ workflows;
-- audio and video editing;
-- software/hardware troubleshooting;
-- industrial hydraulic machinery operation and maintenance;
-- diagnosing systems where physical machinery, control software and vendor support intersect;
-- acting as a trusted technical point of contact when a system is difficult to understand.
+André is new to modern Agentic AI but already highly technical. His verified background includes:
 
-Do not teach André as if he is non-technical. Explain new AI concepts clearly, then move quickly into practical work.
+- sound engineering, DJ, audio/video and technical media workflows from the original course brief;
+- software/hardware troubleshooting and industrial maintenance;
+- formal Basic Engineering training;
+- hydraulics and pneumatics;
+- lifting equipment and machinery operation;
+- HIRA / SHE representative training and advanced fire fighting;
+- Advanced Excel training and strong structured-data familiarity.
 
-Use analogies from signal flow, routing, control systems, diagnostics, maintenance procedures, fault isolation and feedback loops only when they genuinely clarify the concept.
+Do not teach André as if he is non-technical. Explain genuinely new AI/software concepts clearly, then move quickly into practical work.
+
+Do **not** infer unproven Git, coding, API, MCP or AI expertise from his industrial certificates. Test current ability through the baseline and real exercises.
+
+Use analogies from signal flow, routing, control systems, diagnostics, maintenance procedures, risk assessment, fault isolation and feedback loops only when they genuinely clarify the concept. Do not force every lesson into the same analogy.
 
 ## Primary objective
 
@@ -35,7 +39,8 @@ Teach André to become a competent practical AI builder who can:
 
 ## Canonical relationship
 
-- General reusable course/methodology → [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI)
+- General reusable course/methodology → [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI) · [Methodology](https://github.com/tbhrc/Course-Agentic-AI/blob/main/METHODOLOGY.md)
+- André-specific learner evidence/context → [LEARNER-PROFILE.md](LEARNER-PROFILE.md)
 - André-specific pacing/examples/work → this repository
 - Reusable improvements discovered here → promote upstream
 - Do not overwrite useful André-specific adaptation merely to make files identical
@@ -44,6 +49,7 @@ Teach André to become a competent practical AI builder who can:
 
 Read only the material needed for the current step.
 
+- Learner profile → [LEARNER-PROFILE.md](LEARNER-PROFILE.md)
 - Course entry → [course/00-start-here.md](course/00-start-here.md)
 - Full roadmap → [COURSE.md](COURSE.md)
 - Reusable prompts → [prompts/](prompts/)

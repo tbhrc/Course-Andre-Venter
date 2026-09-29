@@ -213,6 +213,54 @@ The Skill should preserve uncertainty and evidence boundaries.
 
 ---
 
+# Exercise E — Maintenance Risk / HIRA Evidence Brief
+
+## Repeated job
+
+Turn observations about a proposed maintenance or operational change into a structured risk-evidence brief **without pretending to replace the authorised workplace risk process**.
+
+## Candidate input
+
+- task/change being considered;
+- equipment/system involved;
+- observed hazards/failure modes;
+- people/systems exposed;
+- existing controls;
+- missing evidence;
+- operating constraints.
+
+## Candidate outcome
+
+A brief that separates:
+
+```text
+OBSERVED HAZARD / FAILURE MODE
+POSSIBLE CONSEQUENCE
+EXISTING CONTROL
+MISSING EVIDENCE
+PROPOSED CONTROL
+VERIFICATION NEEDED
+AUTHORISED DECISION OWNER
+```
+
+## Discovery tests
+
+Should trigger:
+
+> Turn these maintenance-change notes into a HIRA-style evidence brief for review.
+
+Should not automatically trigger:
+
+> Certify that this machine is safe to operate.
+
+### Failure to watch for
+
+The AI invents hazards, declares risk closed without evidence, or presents itself as the authorised safety decision-maker.
+
+The Skill should support evidence quality and review, not impersonate legal/operational authority.
+
+---
+
 # Comparative exercise
 
 After building two Skills, compare them.

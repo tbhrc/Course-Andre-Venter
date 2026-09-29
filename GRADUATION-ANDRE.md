@@ -15,6 +15,8 @@ Examples:
 
 Without being given the architecture, build the smallest useful agentic system.
 
+The learner profile may guide examples and pacing, but it must not become a crutch. The final challenge should require André to transfer the method to a problem that is different enough from his capstone to prove the underlying Agentic AI skill has generalized.
+
 ## André-specific proof
 
 You must be able to explain, without AI assistance:

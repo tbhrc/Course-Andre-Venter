@@ -6,6 +6,10 @@ By the end of this course, André should be able to build and operate a useful A
 
 The course is intentionally **builder-first**. Coding theory, APIs and orchestration are introduced when a real project needs them.
 
+## Learner context
+
+Before coaching or choosing domain exercises, read [LEARNER-PROFILE.md](LEARNER-PROFILE.md). It is the local source of truth for André-specific evidence and coaching guidance; the general curriculum remains owned upstream by [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI).
+
 ## Phase 1 — Control one agent
 
 ### Module 0 — Start here
@@ -223,8 +227,6 @@ Learn:
 - prompt injection;
 - audit evidence where it adds value;
 - human-in-the-loop design.
-
-**Build:** complete the [untrusted-input lab](labs/12-prompt-injection-untrusted-input.md), [permission/human-control lab](labs/12-permission-boundaries.md), and André's [technical safety application](course/12-andre-application.md).
 
 **Build:** complete the [prompt-injection/untrusted-input lab](labs/12-prompt-injection-untrusted-input.md), [permission/human-control lab](labs/12-permission-boundaries.md), and André's [technical safety application](course/12-andre-application.md).
 

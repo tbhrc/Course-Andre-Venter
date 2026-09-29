@@ -13,6 +13,21 @@ Industrial systems already distinguish between:
 
 Agentic systems need the same **consequence-based thinking**.
 
+Your learner profile includes formal **HIRA / SHE representative** training plus advanced fire-fighting training. That makes risk assessment a better teaching bridge than generic "AI safety" language.
+
+A useful translation is:
+
+```text
+HAZARD / FAILURE MODE
+→ WHO / WHAT CAN BE AFFECTED
+→ LIKELIHOOD + CONSEQUENCE
+→ EXISTING CONTROL
+→ ADDITIONAL CONTROL ONLY IF IT REDUCES REAL RISK
+→ VERIFY THE CONTROL WORKS
+```
+
+In AI work, the hazard might be data disclosure, an incorrect external write, an unsafe instruction from untrusted content, or a destructive tool action.
+
 ## Important distinction
 
 The lesson is not:
@@ -59,7 +74,20 @@ document content
 
 Explain how this is similar to receiving a suspicious or irrelevant instruction in a service document that conflicts with the actual maintenance procedure.
 
-## Exercise C — role separation
+## Exercise C — HIRA-style AI risk assessment
+
+Choose one agentic workflow from the course and create `work/12-ai-hira.md`.
+
+For at least five realistic failure modes record:
+
+| Failure / hazard | Affected party/system | Consequence | Existing control | Additional control if justified | Verification |
+|---|---|---|---|---|---|
+
+At least one row must conclude that **no additional control is justified** because the consequence is low or an existing control already handles it.
+
+This prevents risk assessment from becoming a checklist that always adds more friction.
+
+## Exercise D — role separation
 
 Design:
 

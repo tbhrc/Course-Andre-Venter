@@ -12,6 +12,23 @@ You do **not** need to become a traditional programmer before Codex becomes usef
 
 You need to understand enough to supervise what Codex builds.
 
+## Use Excel as a bridge, not a destination
+
+Your verified Advanced Excel training means tables, fields, formulas and validation are already familiar ideas. Use that foundation to learn software data structures:
+
+| Excel idea | Software/data idea |
+|---|---|
+| row | record / object instance |
+| column | field / property |
+| cell value | scalar value |
+| table | list/array of records |
+| formula | deterministic transformation |
+| data validation | schema / input validation |
+| lookup | keyed retrieval / mapping |
+| workbook tabs | separated data views / concerns |
+
+The important jump is learning that code can validate, transform and connect structured data **outside** a spreadsheet while keeping the same discipline about inputs and outputs.
+
 ## Mapping software to systems you already know
 
 | Software concept | Technical analogy |

@@ -15,6 +15,22 @@ You already supervise complex systems where:
 
 That is extremely close to good coding-agent supervision.
 
+Your training portfolio also gives a more specific bridge: lift-truck and crane assessments explicitly separate **pre-start checks, start/operational checks, practical operation and close-down checks**. Treat repository work the same way:
+
+```text
+PRE-START
+inspect repository + instructions + current tests
+
+OPERATION
+make the bounded change
+
+FUNCTIONAL CHECK
+run the relevant test / inspect output
+
+CLOSE-DOWN
+review diff + confirm no unrelated change + preserve known-good state
+```
+
 Use this mental mapping:
 
 | Industrial / hydraulic work | Coding-agent work |

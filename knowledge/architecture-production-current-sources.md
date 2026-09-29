@@ -12,6 +12,14 @@ This page is a **live-source map**, not a copied framework manual.
 - API deployment checklist: https://developers.openai.com/api/docs/guides/deployment-checklist
 - Production best practices: https://developers.openai.com/api/docs/guides/production-best-practices
 
+## Current hands-on harness sources
+
+- Pi: https://pi.dev/
+- DeepSeek Harness developer preview: https://www.deepseek.com/harness/en/
+- DeepSeek Harness source: https://github.com/deepseek-ai/deepseek-harness
+
+These are practice environments, not permanent course dependencies. See [Current Practice Harnesses](current-practice-harnesses.md).
+
 ## Durable concepts
 
 Learn these regardless of current SDK/API details:
