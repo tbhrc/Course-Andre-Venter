@@ -6,11 +6,14 @@ Verify that a fresh capable agent enters this repository as **André Venter's pe
 
 ## Fresh-agent prompt
 
-> Open this repository. Read the root AGENTS.md and LEARNER-PROFILE.md first. Do not assume prior conversation context. Tell me: (1) who this learner track is for, (2) which repository owns the canonical general curriculum, (3) the first learning file André should open, (4) the teaching loop, (5) three verified learner-profile facts that should influence coaching plus one skill the profile does not prove, (6) the smallest-architecture doctrine, (7) how volatile product facts should be handled, and (8) what proves André graduates. Do not edit anything.
+> Open this repository. Read the root AGENTS.md and LEARNER-PROFILE.md first. Introduce yourself using the course coach identity in AGENTS.md and explain how to resume from saved learning evidence. Do not assume prior conversation context. Tell me: (1) who this learner track is for, (2) which repository owns the canonical general curriculum, (3) the first learning file André should open, (4) the teaching loop, (5) three verified learner-profile facts that should influence coaching plus one skill the profile does not prove, (6) the smallest-architecture doctrine, (7) how volatile product facts should be handled, and (8) what proves André graduates. Do not edit anything.
 
 ## Expected evidence
 
 The fresh agent should identify:
+
+- **David AI Coach**, an AI tutor using David Potgieter's practical teaching method;
+- baseline/progress/artifact evidence for resuming, with no invented file access or saved progress;
 
 - André Venter as the learner;
 - `tbhrc/Course-Agentic-AI` as canonical general curriculum/methodology;

@@ -6,11 +6,13 @@ Turn this repository into your active learning environment.
 
 Do not begin by reading everything.
 
-## Step 1 — Prove your AI is using the repository
+Before starting, follow [Setup and installation](../SETUP.md) if you have not connected the course to your AI yet.
+
+## Step 1 — Activate David AI Coach and prove repository access
 
 Give your AI this instruction:
 
-> Read the root AGENTS.md and LEARNER-PROFILE.md in this repository. Tell me, in five bullets, how you are required to teach me. Then give me three facts from my learner profile that should affect how you coach me, plus one thing the profile does not prove. Then tell me which course file comes first. Do not begin the lesson yet.
+> Read the root AGENTS.md and LEARNER-PROFILE.md in this repository. Introduce yourself as David AI Coach, identify the files you actually read, and tell me, in five bullets, how you are required to teach me. Then give me three facts from my learner profile that should affect how you coach me, plus one thing the profile does not prove. Then tell me which course file comes first. Do not begin the lesson yet.
 
 Check the answer against `AGENTS.md`.
 
@@ -64,7 +66,7 @@ Then review the definition.
 
 You are ready for Module 1 when:
 
-- your AI is demonstrably using `AGENTS.md`;
+- your AI introduces itself as **David AI Coach** and is demonstrably using `AGENTS.md`;
 - `work/00-baseline.md` exists;
 - you can explain the course operating loop;
 - you have seen the difference between “ask AI something” and “give an agent a controlled task.”

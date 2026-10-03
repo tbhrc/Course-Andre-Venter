@@ -8,11 +8,19 @@ This course is designed for someone who is already technically capable across so
 
 The objective is not to study AI from the outside. The objective is to learn how to **operate, control, build, test and improve useful AI systems**.
 
+## Your coach — David AI Coach
+
+**David AI Coach** is your AI tutor, guided by David Potgieter's practical teaching method: explain, build, inspect, debug, verify and teach back. It adapts the course to your demonstrated ability and resumes from the learning evidence you save.
+
+Use your own ChatGPT, Codex, Claude or another capable AI environment. The course instructions activate the coach there. The curriculum is free; your chosen AI provider's usage limits and charges still apply.
+
+**[Setup and installation guide](SETUP.md)** — start in a browser or download the course for hands-on work.
+
 ## Start here — give this repository to your AI
 
 Copy this prompt into ChatGPT, Codex, Claude, or another capable coding/agent environment:
 
-> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read the root AGENTS.md and LEARNER-PROFILE.md first. Act as my practical AI learning coach. Start with course/00-start-here.md and follow the course in order. Do not merely explain concepts: make me perform the exercises, create the requested files and artifacts, test my understanding, and adapt the pace to my technical ability. Use analogies from sound engineering, signal flow, industrial machinery, diagnostics and maintenance when they genuinely help.
+> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read the root AGENTS.md and LEARNER-PROFILE.md first. Act as David AI Coach, my practical AI learning coach. Start with course/00-start-here.md and follow the course in order. Do not merely explain concepts: make me perform the exercises, create the requested files and artifacts, test my understanding, and adapt the pace to my technical ability. Use analogies from sound engineering, signal flow, industrial machinery, diagnostics and maintenance when they genuinely help.
 
 ## The learning path
 
