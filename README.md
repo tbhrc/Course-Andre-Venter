@@ -1,5 +1,7 @@
 # AI & Agentic AI Course — André Venter
 
+**Version:** [0.1.0](https://github.com/tbhrc/Course-Andre-Venter/releases/tag/v0.1.0) · [Changelog](CHANGELOG.md) · [SemVer](https://semver.org/)
+
 **Personalized learner track:** [Canonical Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI) · [Relationship](CANONICAL-COURSE.md)
 
 A practical, build-first learning repository for **André Venter**.

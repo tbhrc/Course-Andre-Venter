@@ -149,3 +149,19 @@ define the outcome
 → verify the result
 → explain the architecture
 ```
+
+## Semantic versioning and releases
+
+Use [Semantic Versioning](https://semver.org/). The root `VERSION` file is the single version source; notable changes belong in `CHANGELOG.md`.
+
+The versioned course contract comprises the startup/coach instructions, learner-facing file routes, curriculum outcomes and reusable lab interfaces. During `0.y.z`, this contract is still evolving. Use PATCH for compatible corrections, MINOR for new compatible course capabilities or material pre-1.0 contract changes, and MAJOR for incompatible changes after 1.0.0.
+
+For a published release:
+
+1. Select the version from the actual change; update `VERSION`, the README release link and the dated changelog entry together.
+2. Verify affected course routes/instructions and runnable lab interfaces when changed; run `git diff --check`.
+3. Commit and push the release source to `main`.
+4. Create an annotated `vX.Y.Z` tag at that exact commit, push it, and publish a GitHub Release with matching version and notes. GitHub's source archives provide the downloadable snapshot.
+5. Verify the remote tag, `VERSION`, changelog, release and commit agree. Leave the working tree clean.
+
+Released snapshots are immutable: never move a published tag or edit its source; publish a new version for subsequent changes. Do not bump versions merely as commit counters.
