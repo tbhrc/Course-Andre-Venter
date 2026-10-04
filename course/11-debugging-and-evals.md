@@ -211,3 +211,9 @@ Complete:
 ## Pass condition
 
 You can reproduce an agent failure, classify the failing layer, create a representative eval case, make one targeted correction, and prove that the old failure is less likely to recur without breaking neighboring behaviour.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [12. Safety, permissions and human control](12-safety-permissions-human-control.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

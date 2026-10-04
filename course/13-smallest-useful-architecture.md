@@ -309,3 +309,9 @@ Complete:
 ## Pass condition
 
 You can design a complete architecture, explain why each component exists, name every authoritative owner, show the data/control flow, and remove any component that does not materially improve the proof.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [14. Capstone build](14-capstone.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

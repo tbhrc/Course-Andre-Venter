@@ -1,72 +1,57 @@
-# Module 0 — Start Here
+# Module 0 — Welcome and Your Course Plan
 
-## Objective
+**Estimated time:** 30–60 minutes, including setup and the first short learning activity. If setup is ready, the welcome itself should take only a few minutes.
 
-Turn this repository into your active learning environment.
+## See where the course is taking you
 
-Do not begin by reading everything.
+André, your supplied CV and technical background are already represented in [LEARNER-PROFILE.md](../LEARNER-PROFILE.md). You do not need to restate them or answer an intake questionnaire.
 
-Before starting, follow [Setup and installation](../SETUP.md) if you have not connected the course to your AI yet.
+Open [your guided curriculum](../COURSE.md). It shows every module in order, what you will learn, what you will make and the estimated time.
 
-## Step 1 — Activate David AI Coach and prove repository access
+Plan for **50–75 active learning hours** across the full course, including labs, capstone and graduation. A starting schedule is **5 hours per week for about 10–15 weeks**. The coach adapts this estimate as you progress.
 
-Give your AI this instruction:
+The route is:
 
-> Read the root AGENTS.md and LEARNER-PROFILE.md in this repository. Introduce yourself as David AI Coach, identify the files you actually read, and tell me, in five bullets, how you are required to teach me. Then give me three facts from my learner profile that should affect how you coach me, plus one thing the profile does not prove. Then tell me which course file comes first. Do not begin the lesson yet.
+**AI mental models → one reliable agent → project instructions → files/Git/GitHub → Skills → Codex/coding literacy → APIs/MCP → state/debugging/safety → architecture/capstone → multi-agent/production → graduation.**
 
-Check the answer against `AGENTS.md`.
+## What David AI Coach does first
 
-If the AI invents rules that are not there, misses major rules, cannot access the repository, or treats the learner profile as proof of skills it does not establish, fix that before continuing.
+Your opening screen should contain:
 
-## Step 2 — Create your baseline
+- **Your course:** Practical Agentic AI — [full curriculum](../COURSE.md).
+- **Your position:** Module 0 orientation, then [Module 1 — AI mental models](01-ai-mental-models.md).
+- **Today's outcome:** understand model, assistant and agent using a maintenance handover or audio signal chain.
+- **Session length:** about 45–60 minutes, adjustable to your pace.
+- **What you will make:** the first part of `work/01-system-map.md`.
+- **Next:** finish Module 1's system map, then [Module 2 — Operating one agent](02-operating-one-agent.md).
 
-Create `work/00-baseline.md`.
+The coach briefly confirms that it read the course instructions and supplied profile when present. It then teaches the first concept and shows a worked example before asking you to try anything.
 
-First read [../LEARNER-PROFILE.md](../LEARNER-PROFILE.md). Correct anything that is outdated or inaccurate. Do not repeat the profile just to fill space.
+## Start the first lesson now
 
-Then answer these questions in your own words:
+Ask David AI Coach:
 
-1. What do you think an AI agent is?
-2. What is the difference between ChatGPT and an agent?
-3. Which AI tools have you actually used so far, and what have you done with them?
-4. Have you used Git or GitHub before? What for?
-5. Have you written or edited code before? Which languages, scripts or environments?
-6. What repetitive technical or creative task do you currently do that AI might help with?
-7. Which current problem would make this course genuinely useful right now?
-8. Which familiar domain would you most like to use for the first exercises: industrial maintenance, hydraulics, safety/risk, audio, DJ/video, structured data/Excel, or something else?
+> Show me my curriculum and current position. Use my supplied background and any previous answers. Begin Module 1 by explaining the difference between a model, an assistant and an agent, then show one example from a familiar workflow. Give me one small part of the system-map exercise to try. Do not start another baseline questionnaire.
 
-Do not make the answers impressive. Make them accurate.
+The first exercise is a learning activity: identify the input, action, output and verification in the example. The coach helps you turn it into a system map during Module 1.
 
-## Step 3 — Your first operating loop
+You do not need to understand AI terminology before being taught it.
 
-Use this loop throughout the course:
+## Keep your place
 
-```text
-UNDERSTAND
-→ DEFINE THE OUTCOME
-→ MAKE ONE CHANGE
-→ INSPECT THE RESULT
-→ VERIFY
-→ EXPLAIN WHAT HAPPENED
-```
+The coach creates or updates `work/progress.md` in your own copy when file-writing is available. Begin with existing profile/background evidence and record:
 
-This should feel familiar from technical fault finding.
+- current module and step;
+- the outcome of the session;
+- completed work and evidence;
+- anything that needs practice;
+- the exact next action and next lesson;
+- the remaining study-time estimate.
 
-You would not randomly adjust five parameters on a live audio chain and then guess which one fixed the problem. Agentic systems benefit from the same discipline.
+If the AI cannot write files, save the progress text it provides. If you already answered the old eight questions, keep those answers and continue into Module 1; do not repeat them. An absent `work/00-baseline.md` never prevents starting.
 
-## Exercise
+## Ready to continue
 
-Ask your AI:
+You have seen the roadmap, know today's outcome and next lesson, and David AI Coach can access the current teaching files. Continue to [Module 1 — AI mental models](01-ai-mental-models.md).
 
-> Pick one small task from my technical background that we can complete in under one learning session without writing an application. Turn it into a controlled agent task with an outcome, inputs, constraints and acceptance criteria. Do not perform the task until I approve the task definition.
-
-Then review the definition.
-
-## Pass condition
-
-You are ready for Module 1 when:
-
-- your AI introduces itself as **David AI Coach** and is demonstrably using `AGENTS.md`;
-- `work/00-baseline.md` exists;
-- you can explain the course operating loop;
-- you have seen the difference between “ask AI something” and “give an agent a controlled task.”
+Need installation help? Use [SETUP.md](../SETUP.md).

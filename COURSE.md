@@ -10,21 +10,66 @@ The course is intentionally **builder-first**. Coding theory, APIs and orchestra
 
 Before coaching or choosing domain exercises, read [LEARNER-PROFILE.md](LEARNER-PROFILE.md). It is the local source of truth for André-specific evidence and coaching guidance; the general curriculum remains owned upstream by [Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI).
 
+
+## Your guided curriculum at a glance
+
+**Start:** [Module 0 — Welcome and your course plan](course/00-start-here.md), then [Module 1 — AI mental models](course/01-ai-mental-models.md). David AI Coach teaches the course in this order and shows your current lesson and next step at every session.
+
+**Estimated study time:** plan for **50–75 active learning hours**, including the practical labs, capstone and final challenge. At **5 hours per week**, allow **10–15 weeks**; at **10 hours per week**, allow **5–8 weeks**. These are planning estimates, not measured completion times or deadlines. Prior demonstrated ability, setup problems and project scope can change them. The coach revises your remaining estimate from actual progress.
+
+Use sessions of roughly **45–60 minutes**. A module can span several sessions. Start with the worked example, do the exercise, get feedback, and continue from the next unfinished step.
+
+| Module / lesson | Estimated hours | What you will be able to do | Practical result |
+|---|---:|---|---|
+| [0. Welcome and course navigation](course/00-start-here.md) | 0.5–1 | Know the route and start the first lesson | Your course plan and next step |
+| [1. AI mental models](course/01-ai-mental-models.md) | 2–3 | Explain model, assistant, agent, context and tools | A familiar-system map → AI-agent map |
+| [2. Operate one agent](course/02-operating-one-agent.md) | 2–3 | Give an agent a clear task and verify its result | A tested Agent Brief |
+| [3. Project instructions](course/03-project-instructions-and-agents-md.md) | 2–3 | Make useful behaviour survive beyond one chat | Your first tested AGENTS.md |
+| [4. Files, Markdown, Git and GitHub](course/04-markdown-git-github.md) | 3–4 | Save, inspect and reverse project changes | A repository with commits and reviewed diffs |
+| [5. Reusable Skills](course/05-skills.md) | 3–5 | Turn a proven workflow into reusable instructions | One Skill tested on representative tasks |
+| [6. Codex fundamentals](course/06-codex-fundamentals.md) | 3–5 | Supervise a coding agent and review its changes | A repaired starter project with test evidence |
+| [7. Coding literacy](course/07-coding-literacy.md) | 4–5 | Understand and debug the code your AI produces | A small code change you can explain and roll back |
+| [8. APIs and tool calling](course/08-apis-and-tool-calling.md) | 3–5 | Connect an agent to a bounded action | A working API request and tool contract |
+| [9. MCP connections](course/09-mcp.md) | 3–4 | Connect and inspect a reusable tool interface | A verified MCP connection |
+| [10. Context, memory, state and data](course/10-context-memory-state-data.md) | 2–3 | Decide what persists and where truth lives | A source-of-truth and state design |
+| [11. Debugging and evaluations](course/11-debugging-and-evals.md) | 3–4 | Find a failure’s cause and prevent recurrence | Representative tests and a verified repair |
+| [12. Safety, permissions and human control](course/12-safety-permissions-human-control.md) | 2–3 | Handle secrets, untrusted inputs and consequential actions | Permission and prompt-injection checks |
+| [13. Smallest useful architecture](course/13-smallest-useful-architecture.md) | 2–3 | Choose only the components a real problem needs | A justified architecture plan |
+| [14. Capstone build](course/14-capstone.md) | 8–12 | Build and verify a useful end-to-end agent | Your working capstone and explanation |
+| [15. Multi-agent systems](course/15-multi-agent-systems.md) | 2–3 | Judge whether a split improves a proven single agent | A one-agent vs multi-agent comparison |
+| [16. Production thinking](course/16-production-thinking.md) | 2–3 | Plan monitoring, cost, recovery and release handling | A proportionate production-readiness plan |
+| [Final graduation challenge](GRADUATION-ANDRE.md) | 2–3 | Solve and explain a fresh problem independently | A verified build and teach-back |
+
+## How the coach guides you
+
+Each session starts with **where you are → today’s outcome → estimated session time → what you will make → next lesson**. The coach then teaches a short concept and worked example before inviting you to try it. Feedback and useful skill checks happen during the exercises.
+
+You do not need to complete a baseline questionnaire to unlock the course. Existing CVs, learner profiles, prior answers and work provide the starting context. New AI/Git/coding skills are established through practical work as those topics arise.
+
+At a checkpoint, the coach records the current module, completed evidence, gaps, next action and remaining estimate in your own `work/progress.md`. If you already answered the old baseline questions, keep those answers and continue into the lessons; do not repeat the interview.
+
+**André’s starting route:** your supplied background is already captured in [LEARNER-PROFILE.md](LEARNER-PROFILE.md). Use technical maintenance or audio examples as a starting bridge. The next learning topic is **model → assistant → agent** in Module 1, not another background interview.
+
+
 ## Phase 1 — Control one agent
 
-### Module 0 — Start here
-**Goal:** establish the learning environment and baseline.
+### [Module 0 — Start here](course/00-start-here.md)
+**Goal:** see the curriculum, understand the study plan and begin learning.
 
 You will:
 - give this repository to an AI;
 - verify that the AI reads `AGENTS.md`;
-- create your learner workspace;
+- see the ordered modules, learning outcomes, practical outputs and time estimates;
+- use the background already supplied;
+- create your learner workspace when file-writing is available;
 - choose an initial real problem;
 - establish a simple build/verify/reflection loop.
 
-**Artifact:** `work/00-baseline.md`
+**Artifact:** your own `work/progress.md` course plan. A questionnaire or baseline file is not a prerequisite.
 
-### Module 1 — AI mental models
+**Next:** [Module 1 — AI mental models](course/01-ai-mental-models.md).
+
+### [Module 1 — AI mental models](course/01-ai-mental-models.md)
 **Goal:** understand the components without unnecessary mathematics.
 
 Learn:
@@ -38,7 +83,7 @@ Learn:
 
 **Artifact:** your own system diagram and explanations.
 
-### Module 2 — Operating one agent well
+### [Module 2 — Operating one agent well](course/02-operating-one-agent.md)
 **Goal:** move from casual prompting to controlled execution.
 
 Learn:
@@ -52,7 +97,7 @@ Learn:
 
 **Artifact:** a reusable Agent Brief.
 
-### Module 3 — Project instructions and `AGENTS.md`
+### [Module 3 — Project instructions and `AGENTS.md`](course/03-project-instructions-and-agents-md.md)
 **Goal:** make behaviour survive beyond one chat.
 
 Learn:

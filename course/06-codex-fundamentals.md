@@ -410,3 +410,9 @@ Explain without notes:
 ## Pass condition
 
 You can give a coding agent a bounded repository task, review its actual change, identify the evidence supporting success, and reject unnecessary scope expansion.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [7. Coding literacy](07-coding-literacy.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

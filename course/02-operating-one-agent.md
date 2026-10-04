@@ -117,3 +117,9 @@ This fault tree will become important later.
 ## Pass condition
 
 You can turn an ambiguous request into an Agent Brief that another capable agent could execute without guessing the definition of success.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [3. Project instructions](03-project-instructions-and-agents-md.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

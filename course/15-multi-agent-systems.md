@@ -251,3 +251,9 @@ Complete [One Agent vs Multi-Agent Lab](../labs/15-one-vs-multi-agent.md), then 
 ## Pass condition
 
 You can explain exactly why each additional agent exists, define its contract/state/authority, bound every loop, and show why the multi-agent version is materially better than one well-engineered agent.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [16. Production thinking](16-production-thinking.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

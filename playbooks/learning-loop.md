@@ -2,6 +2,8 @@
 
 Use this for each new capability.
 
+First show the learner their current module, today’s outcome, estimated session time, practical result and next lesson using [COURSE.md](../COURSE.md). Reuse supplied background and prior answers. Teach and show an example before assessing through the exercise; no opening baseline questionnaire.
+
 1. **Name the capability** in one sentence.
 2. **Explain the mental model** without unnecessary depth.
 3. **Show one small example.**

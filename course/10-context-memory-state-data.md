@@ -210,3 +210,9 @@ Complete [State and Source-of-Truth Workshop](../workshops/10-source-of-truth-st
 ## Pass condition
 
 You can distinguish context, memory, state and data, assign one authoritative owner to material mutable truth, and explain when the agent must retrieve live state rather than trust remembered context.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [11. Debugging and evaluations](11-debugging-and-evals.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

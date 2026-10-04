@@ -10,7 +10,7 @@ David AI Coach is the AI tutor defined in this course's `AGENTS.md`. It runs in 
 2. Paste the startup prompt below.
 3. Have the coach confirm it actually read `AGENTS.md` and `LEARNER-PROFILE.md` and `course/00-start-here.md`. A link alone does not prove file access.
 4. If it cannot read the repository, download the course as described below and upload those individual Markdown files, or paste their contents. Add the current lesson and your saved progress as needed. File availability and limits depend on your AI provider.
-5. Answer the baseline honestly, then do one exercise at a time. Save your answers and completed work in your own course folder.
+5. Ask David AI Coach to show your curriculum and study plan, then begin the first lesson. Save your completed work and next step in your own course folder.
 
 You can begin this way without installing the course or writing code.
 
@@ -32,13 +32,13 @@ cd Course-Andre-Venter
 
 Copy this into your AI environment:
 
-> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read the root AGENTS.md and LEARNER-PROFILE.md first. Act as David AI Coach. Confirm which files you read, start with course/00-start-here.md, and guide my baseline one question at a time. Make me do the exercises, inspect my work, help me debug, verify outcomes and explain what I learned. Resume from my saved progress when it exists.
+> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read AGENTS.md, COURSE.md and LEARNER-PROFILE.md first. Act as David AI Coach. Show me the ordered curriculum, learning outcomes, estimated study time and my next lesson. Use the background and any answers or progress already supplied; do not begin with a baseline questionnaire. Give me the short Module 0 orientation, then start teaching Module 1 with an explanation, worked example and one practical exercise. Resume from saved learning evidence when it exists.
 
-Expect it to introduce itself as **David AI Coach**, confirm file access, and help you establish your baseline. Use `prompts/01-course-coach.md` to resume in a fresh session.
+Expect it to introduce itself as **David AI Coach**, show your curriculum and estimated study time, confirm your next lesson, and begin teaching. Use `prompts/01-course-coach.md` to resume in a fresh session.
 
 ## Keep your progress
 
-Your working copy holds `work/00-baseline.md`, your exercise artifacts and `work/progress.md`. Ask David AI Coach to save your demonstrated understanding, gaps and next step at a meaningful checkpoint. In a browser without file-writing access, save the text it provides yourself and supply it next time.
+Your working copy holds your exercise artifacts and `work/progress.md`. Keep any existing `work/00-baseline.md` answers as useful prior evidence; creating that file is optional. Ask David AI Coach to save your demonstrated understanding, gaps and next step at a meaningful checkpoint. In a browser without file-writing access, save the text it provides yourself and supply it next time.
 
 Keep personal answers, private documents and secrets in your own local copy or private repository. Public course files are the shared curriculum.
 

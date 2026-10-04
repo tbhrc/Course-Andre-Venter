@@ -341,3 +341,9 @@ Complete:
 ## Pass condition
 
 You can identify a repeated behaviour worth packaging, create a minimal Skill, explain why every file exists, and demonstrate that it works on at least one realistic case.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [6. Codex fundamentals](06-codex-fundamentals.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

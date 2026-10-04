@@ -253,3 +253,9 @@ Use [Production Readiness Checklist](../checklists/production-readiness.md) agai
 ## Pass condition
 
 You can distinguish demo proof from production requirements and identify the smallest additional hardening needed for your actual capstone workload.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [Final graduation challenge](../GRADUATION-ANDRE.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

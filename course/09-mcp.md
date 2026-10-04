@@ -354,3 +354,9 @@ Explain without notes:
 ## Pass condition
 
 You can connect to one trusted MCP server, inspect its exposed capability surface, call one read-only tool, explain the result, and decide whether MCP materially improves the integration.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [10. Context, memory, state and data](10-context-memory-state-data.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

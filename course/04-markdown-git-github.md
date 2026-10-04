@@ -413,3 +413,9 @@ Explain this without notes:
 ## Pass condition
 
 You can independently inspect an AI-made change and determine what actually changed before accepting it.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [5. Reusable Skills](05-skills.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

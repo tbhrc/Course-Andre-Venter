@@ -1,42 +1,46 @@
-# Final Cold-Start Test — André Track
+# Course Startup and Continuation Acceptance Cases
 
 ## Purpose
 
-Verify that a fresh capable agent enters this repository as **André Venter's personalized learner track** while respecting `Course-Agentic-AI` as the canonical general curriculum.
+Verify the real learner-facing opening for André’s personalized track with Course-Agentic-AI as the general curriculum owner: curriculum first, teaching next, existing evidence reused.
 
-## Fresh-agent prompt
+## Case 1 — New learner, supplied background, no baseline file
 
-> Open this repository. Read the root AGENTS.md and LEARNER-PROFILE.md first. Introduce yourself using the course coach identity in AGENTS.md and explain how to resume from saved learning evidence. Do not assume prior conversation context. Tell me: (1) who this learner track is for, (2) which repository owns the canonical general curriculum, (3) the first learning file André should open, (4) the teaching loop, (5) three verified learner-profile facts that should influence coaching plus one skill the profile does not prove, (6) the smallest-architecture doctrine, (7) how volatile product facts should be handled, and (8) what proves André graduates. Do not edit anything.
+Start a fresh course session using:
 
-## Expected evidence
+> Read AGENTS.md, COURSE.md and LEARNER-PROFILE.md first. Act as David AI Coach. I have supplied my background. Show me what I will learn, the roadmap, how long to allow and what we do next. Start teaching; do not give me an intake questionnaire.
 
-The fresh agent should identify:
+Expected opening:
 
-- **David AI Coach**, an AI tutor using David Potgieter's practical teaching method;
-- baseline/progress/artifact evidence for resuming, with no invented file access or saved progress;
+- Introduces **David AI Coach** as an AI tutor.
+- Links [COURSE.md](../COURSE.md), shows the ordered modules and their outcomes/practical results.
+- Explains the **50–75 active-hour** planning estimate and **10–15 weeks at 5 hours/week**, with adaptable pacing.
+- Shows current module, today's outcome, session estimate, expected output and next lesson.
+- Reuses supplied background and begins Module 1 with an explanation and worked example before one exercise.
+- Does not require `work/00-baseline.md` or ask eight questions, together or sequentially, before teaching.
 
-- André Venter as the learner;
-- `tbhrc/Course-Agentic-AI` as canonical general curriculum/methodology;
-- `course/00-start-here.md` as the starting lesson;
-- explain → show → André does → inspect → debug → verify → teach-back → keep artifact;
-- verified learner-profile evidence including formal engineering/hydraulics-pneumatics, safety/risk and Advanced Excel, plus the original sound/audio/DJ technical brief;
-- the profile does not prove current Git/coding/API/MCP skill and those must be tested;
-- one capable agent / smallest useful architecture before orchestration;
-- volatile public/product facts verified from live authoritative sources;
-- graduation through independent build, diagnosis, verification and explanation.
+## Case 2 — Learner already answered the old eight questions
 
-## Failure conditions
+Supply the existing answers, then ask:
 
-Fail if the agent:
+> I already answered your questions. Where is my course and what should I learn next?
 
-- treats André's repo as the canonical general curriculum;
-- loses André-specific examples/pacing;
-- ignores LEARNER-PROFILE.md or treats certificates as proof of unverified software/AI skills;
-- starts at an arbitrary module;
-- recommends multi-agent first;
-- treats memory as live authoritative state;
-- cannot identify the graduation standard.
+Expected: preserves those answers as evidence, shows the roadmap and next lesson, and starts teaching. No repeated interview or requirement to recreate the baseline.
 
-## Repair rule
+## Case 3 — Returning learner with practical progress
 
-Fix only the smallest routing/personalization gap, rerun once, then stop.
+Supply `work/progress.md` and relevant artifacts showing the current module and unfinished step, then ask:
+
+> Continue my course from where I stopped.
+
+Expected: resumes the evidenced step, shows today's outcome and next lesson, and revises the remaining estimate. Does not restart Module 0 or infer mastery solely from a CV or questionnaire answers.
+
+## Case 4 — Repository access unavailable
+
+Expected: states the access limitation and asks for only the instructions/roadmap/current lesson needed. Does not invent file access, saved progress, a curriculum or completion.
+
+## Failure and repair
+
+Fail an opening that withholds the curriculum, starts with a baseline questionnaire, requires a baseline file, repeats supplied CV/background, invents mastery, or presents the study estimate as a guaranteed duration.
+
+Repair the smallest conflicting instruction, then repeat the failed case. These are behavioral acceptance cases; document inspection alone is not proof of a live learner-session pass.

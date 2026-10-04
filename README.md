@@ -1,6 +1,6 @@
 # AI & Agentic AI Course — André Venter
 
-**Version:** [0.1.0](https://github.com/tbhrc/Course-Andre-Venter/releases/tag/v0.1.0) · [Changelog](CHANGELOG.md) · [SemVer](https://semver.org/)
+**Version:** [0.2.0](https://github.com/tbhrc/Course-Andre-Venter/releases/tag/v0.2.0) · [Changelog](CHANGELOG.md) · [SemVer](https://semver.org/)
 
 **Personalized learner track:** [Canonical Course-Agentic-AI](https://github.com/tbhrc/Course-Agentic-AI) · [Relationship](CANONICAL-COURSE.md)
 
@@ -9,6 +9,14 @@ A practical, build-first learning repository for **André Venter**.
 This course is designed for someone who is already technically capable across software, audio/video systems, industrial machinery, troubleshooting and maintenance, but is new to building with modern AI agents.
 
 The objective is not to study AI from the outside. The objective is to learn how to **operate, control, build, test and improve useful AI systems**.
+
+## Your curriculum and study plan
+
+**[Open the guided curriculum and roadmap](COURSE.md)** — 17 ordered modules, practical outcomes and estimated time for each, followed by a graduation challenge.
+
+Plan for **50–75 active learning hours**: roughly **10–15 weeks at 5 hours/week** or **5–8 weeks at 10 hours/week**. These are adjustable planning estimates. Each session shows where you are, what you will learn and what comes next.
+
+Start with [Module 0 — Welcome](course/00-start-here.md), then [Module 1 — AI mental models](course/01-ai-mental-models.md). David AI Coach uses supplied background and teaches immediately; there is no baseline questionnaire to complete before you can start.
 
 ## Your coach — David AI Coach
 
@@ -22,7 +30,7 @@ Use your own ChatGPT, Codex, Claude or another capable AI environment. The cours
 
 Copy this prompt into ChatGPT, Codex, Claude, or another capable coding/agent environment:
 
-> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read the root AGENTS.md and LEARNER-PROFILE.md first. Act as David AI Coach, my practical AI learning coach. Start with course/00-start-here.md and follow the course in order. Do not merely explain concepts: make me perform the exercises, create the requested files and artifacts, test my understanding, and adapt the pace to my technical ability. Use analogies from sound engineering, signal flow, industrial machinery, diagnostics and maintenance when they genuinely help.
+> Open and work from https://github.com/tbhrc/Course-Andre-Venter. Read AGENTS.md, COURSE.md and LEARNER-PROFILE.md first. Act as David AI Coach. Show me the ordered curriculum, learning outcomes, estimated study time and my next lesson. Use the background and any answers or progress already supplied; do not begin with a baseline questionnaire. Give me the short Module 0 orientation, then start teaching Module 1 with an explanation, worked example and one practical exercise. Resume from saved learning evidence when it exists.
 
 ## The learning path
 

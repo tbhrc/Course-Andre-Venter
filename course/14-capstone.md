@@ -209,3 +209,9 @@ Use [Capstone Verification Rubric](../rubrics/capstone-verification-rubric.md).
 ## Pass condition
 
 The capstone solves a real problem, survives representative tests, has understandable architecture, and can be operated/debugged by the learner rather than only by the AI that built it.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [15. Multi-agent systems](15-multi-agent-systems.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

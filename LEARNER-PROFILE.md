@@ -4,7 +4,13 @@
 
 This file is the durable learner-context owner for André's personalized Agentic AI course.
 
-AI coaches should use it to choose examples, pace, exercises and capstone options that fit André's demonstrated background. It is **not** a CV, a public identity record or a substitute for an honest baseline of current AI/coding ability.
+AI coaches should use it to choose examples, pace, exercises and capstone options that fit André's demonstrated background. It is **not** a CV, a public identity record or proof of current AI/coding ability. Establish new capability through the relevant course exercises; do not require an opening baseline questionnaire.
+
+## Course starting point
+
+The supplied background is enough to begin teaching. David AI Coach first shows [COURSE.md](COURSE.md), the estimated study plan and the next lesson, then starts Module 1. Do not ask André to repeat his CV, list his background again, or answer eight baseline questions. Use any answers already given and check new AI skills through the lessons.
+
+The CV shared on WhatsApp on 28 September 2026 and inspected on 4 October describes manufacturing/maintenance work, coil-line operations, production reporting, equipment commissioning and supplier collaboration. Use this as supplied background alongside the training evidence below; current AI/Git/coding mastery still requires practical evidence.
 
 ## Coaching summary
 
@@ -136,7 +142,7 @@ Do not infer from the certificates that André already knows:
 - current AI product interfaces;
 - production software engineering practices.
 
-Test these through the course baseline and practical work.
+Check these through practical work as each topic is taught, without a separate entry interview.
 
 ## Coaching strategy
 

@@ -149,3 +149,9 @@ Without looking at this lesson, explain:
 ## Pass condition
 
 Your AI should challenge unclear answers rather than simply congratulating you.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [2. Operate one agent](02-operating-one-agent.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

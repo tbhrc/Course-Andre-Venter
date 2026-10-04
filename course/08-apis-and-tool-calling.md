@@ -464,3 +464,9 @@ Complete:
 ## Pass condition
 
 You can explain an API request/response, design a bounded tool schema, keep secrets out of source, classify read/write consequence, diagnose basic errors, and decide whether an existing tool or direct API is sufficient.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [9. MCP connections](09-mcp.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

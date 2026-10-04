@@ -216,3 +216,9 @@ Complete:
 ## Pass condition
 
 You can distinguish trusted instructions from untrusted content, design layered controls for a realistic agent, place human approval at a genuine consequence boundary, and explain why a proposed control improves safety rather than merely adding friction.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [13. Smallest useful architecture](13-smallest-useful-architecture.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

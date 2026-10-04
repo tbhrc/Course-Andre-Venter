@@ -593,3 +593,9 @@ Explain:
 ## Pass condition
 
 You can read a small unfamiliar program, explain its data flow, identify likely failure points, interpret a basic error, and review a coding agent's change without treating the code as a black box.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [8. APIs and tool calling](08-apis-and-tool-calling.md) · **[Full curriculum and estimated study plan](../COURSE.md)**

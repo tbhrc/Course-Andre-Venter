@@ -108,3 +108,9 @@ If they do not, improve the smallest instruction that caused the failure.
 ## Pass condition
 
 A fresh agent can enter the project, understand the operating shape and make correct first-hop decisions without relying on your previous chat.
+
+## Your next step
+
+Once the practical work and teach-back for this module are complete, record the evidence and exact next action in your own `work/progress.md`. If something still needs practice, continue that step before advancing.
+
+**Next:** [4. Files, Markdown, Git and GitHub](04-markdown-git-github.md) · **[Full curriculum and estimated study plan](../COURSE.md)**
